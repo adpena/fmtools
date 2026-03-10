@@ -3,7 +3,7 @@
   <p><b>Local Python framework for structured extraction on Apple Silicon</b></p>
   <p>
     <a href="https://pypi.org/project/fmtools/"><img src="https://img.shields.io/pypi/v/fmtools.svg" alt="PyPI Version"></a>
-    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+    <a href="https://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache 2.0"></a>
     <img src="https://img.shields.io/badge/Python-3.13%2B-blue.svg" alt="Python Version">
     <img src="https://img.shields.io/badge/macOS-26.0+-lightgrey.svg" alt="macOS Version">
     <img src="https://img.shields.io/badge/tests-400%2B%20passed-brightgreen.svg" alt="Tests">
@@ -1387,7 +1387,7 @@ Acknowledgements:
 
 ## License
 
-MIT License. See [LICENSE](LICENSE) for details.
+Apache License 2.0. See [LICENSE](LICENSE) for details.
 
 ---
 

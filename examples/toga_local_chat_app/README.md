@@ -28,7 +28,7 @@ briefcase dev
 
 ## Run from repository root
 
-From `/Users/adpena/PycharmProjects/fmtools`:
+From the repository root:
 
 ```bash
 fmtools chat
